@@ -22,3 +22,7 @@ Challenges involving encoding, ciphers, hashing, and breaking or implementing cr
 ## Notes & Techniques
 
 -
+
+## Last Updated
+
+**2026-07-21** — Logged Mod 26 (Easy, 10 pts); category total now 1 solved / 10 points.

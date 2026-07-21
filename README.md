@@ -33,3 +33,7 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 | Path | Status |
 |---|---|
 | The Beginner's Guide to the Challenge Library | Completed |
+
+## Last Updated
+
+**2026-07-21** — Added a difficulty breakdown to the overall stats and a last-updated section to every README.

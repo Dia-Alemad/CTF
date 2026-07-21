@@ -39,3 +39,7 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 ## Notes & Techniques
 
 -
+
+## Last Updated
+
+**2026-07-21** — Logged Big Zip (Easy, 100 pts); category total now 18 solved / 1090 points.

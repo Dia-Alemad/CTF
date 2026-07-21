@@ -23,3 +23,7 @@ Challenges involving disassembly, decompilation, and understanding program logic
 ## Notes & Techniques
 
 -
+
+## Last Updated
+
+**2026-07-21** — Logged keygenme-py (Medium, 30 pts); category total now 2 solved / 80 points.

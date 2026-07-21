@@ -22,3 +22,7 @@ Challenges involving file analysis, steganography, memory/disk artifacts, and da
 ## Notes & Techniques
 
 -
+
+## Last Updated
+
+**2026-07-21** — Logged Enhance! (Medium, 100 pts); category total now 1 solved / 100 points.
