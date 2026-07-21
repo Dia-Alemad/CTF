@@ -6,9 +6,9 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 18 |
-| Total points | 1090 |
-| Easy solved | 14 |
+| Challenges solved | 20 |
+| Total points | 1135 |
+| Easy solved | 16 |
 | Medium solved | 4 |
 | Hard solved | 0 |
 | Current streak | 0 |
@@ -35,6 +35,8 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 | 16 | PW Crack 4 | Medium | 85 | Solved | |
 | 17 | PW Crack 5 | Medium | 100 | Solved | |
 | 18 | Big Zip | Easy | 100 | Solved | |
+| 19 | Nice netcat... | Easy | 15 | Solved | |
+| 20 | Magikarp Ground Mission | Easy | 30 | Solved | SSH |
 
 ## Notes & Techniques
 
@@ -42,4 +44,4 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 ## Last Updated
 
-**2026-07-21** — Logged Big Zip (Easy, 100 pts); category total now 18 solved / 1090 points.
+**2026-07-21** — Logged Nice netcat... (Easy, 15 pts) and Magikarp Ground Mission (Easy, 30 pts); category total now 20 solved / 1135 points.

@@ -6,22 +6,22 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 | Challenges Solved | Total Points |
 |---|---|
-| 25 | 1530 |
+| 27 | 1575 |
 
 ### By Difficulty
 
 | Difficulty | Solved | Points |
 |---|---|---|
-| Easy | 18 | 1030 |
+| Easy | 20 | 1075 |
 | Medium | 7 | 500 |
 | Hard | 0 | 0 |
-| **Total** | **25** | **1530** |
+| **Total** | **27** | **1575** |
 
 ## Categories
 
 | Category | Solved | Points | Link |
 |---|---|---|---|
-| General Skills | 18 | 1090 | [General-Skills/](General-Skills/README.md) |
+| General Skills | 20 | 1135 | [General-Skills/](General-Skills/README.md) |
 | Cryptography | 1 | 10 | [Cryptography/](Cryptography/README.md) |
 | Web Exploitation | 2 | 150 | [Web-Exploitation/](Web-Exploitation/README.md) |
 | Forensics | 1 | 100 | [Forensics/](Forensics/README.md) |
@@ -36,4 +36,4 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 ## Last Updated
 
-**2026-07-21** — Added a difficulty breakdown to the overall stats and a last-updated section to every README.
+**2026-07-21** — Logged two General Skills challenges (Nice netcat..., Magikarp Ground Mission); overall total now 27 solved / 1575 points.
