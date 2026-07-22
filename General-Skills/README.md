@@ -6,10 +6,10 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 20 |
-| Total points | 1135 |
-| Easy solved | 16 |
-| Medium solved | 4 |
+| Challenges solved | 23 |
+| Total points | 1455 |
+| Easy solved | 18 |
+| Medium solved | 5 |
 | Hard solved | 0 |
 | Current streak | 0 |
 
@@ -37,6 +37,9 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 | 18 | Big Zip | Easy | 100 | Solved | |
 | 19 | Nice netcat... | Easy | 15 | Solved | |
 | 20 | Magikarp Ground Mission | Easy | 30 | Solved | SSH |
+| 21 | First Find | Easy | 100 | Solved | |
+| 22 | Static ain't always noise | Easy | 20 | Solved | |
+| 23 | plumbing | Medium | 200 | Solved | Pipe and grep |
 
 ## Notes & Techniques
 
@@ -44,4 +47,4 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 ## Last Updated
 
-**2026-07-21** — Logged Nice netcat... (Easy, 15 pts) and Magikarp Ground Mission (Easy, 30 pts); category total now 20 solved / 1135 points.
+**2026-07-22** — Logged First Find (Easy, 100 pts), Static ain't always noise (Easy, 20 pts), and plumbing (Medium, 200 pts); category total now 23 solved / 1455 points.

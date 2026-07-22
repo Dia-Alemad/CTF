@@ -6,22 +6,22 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 | Challenges Solved | Total Points |
 |---|---|
-| 27 | 1575 |
+| 30 | 1895 |
 
 ### By Difficulty
 
 | Difficulty | Solved | Points |
 |---|---|---|
-| Easy | 20 | 1075 |
-| Medium | 7 | 500 |
+| Easy | 22 | 1195 |
+| Medium | 8 | 700 |
 | Hard | 0 | 0 |
-| **Total** | **27** | **1575** |
+| **Total** | **30** | **1895** |
 
 ## Categories
 
 | Category | Solved | Points | Link |
 |---|---|---|---|
-| General Skills | 20 | 1135 | [General-Skills/](General-Skills/README.md) |
+| General Skills | 23 | 1455 | [General-Skills/](General-Skills/README.md) |
 | Cryptography | 1 | 10 | [Cryptography/](Cryptography/README.md) |
 | Web Exploitation | 2 | 150 | [Web-Exploitation/](Web-Exploitation/README.md) |
 | Forensics | 1 | 100 | [Forensics/](Forensics/README.md) |
@@ -36,4 +36,4 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 ## Last Updated
 
-**2026-07-21** — Logged two General Skills challenges (Nice netcat..., Magikarp Ground Mission); overall total now 27 solved / 1575 points.
+**2026-07-22** — Logged three General Skills challenges (First Find, Static ain't always noise, plumbing); overall total now 30 solved / 1895 points.
